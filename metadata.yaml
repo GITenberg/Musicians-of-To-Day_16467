@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16467#Musicians-of-To-Day
 gutenberg_bookshelf: Music
 gutenberg_issued: '2005-08-07'
 gutenberg_type: Text
