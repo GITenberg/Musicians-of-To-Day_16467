@@ -1,0 +1,44 @@
+_repo: Musicians-of-To-Day_16467
+_version: 0.1.0
+alternative_title:
+- Musicians of Today
+- Musiciens d'aujourd'hui. English
+contributor:
+  translator:
+    agent_name: Blaiklock, Mary
+    gutenberg_agent_id: '6737'
+    url: http://www.gutenberg.org/2009/agents/6737
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2005-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Music -- Germany -- History and criticism'
+- !lcsh 'Composers -- Biography'
+- !lcsh 'Music -- France -- History and criticism'
+- !lcsh 'Music -- France -- Paris -- History and criticism'
+tableOfContents: 'Berlioz -- Wagner: Siegfried, Tristan -- Camille Saint-Saëns --
+  Vincent d''Indy -- Richard Strauss -- Hugo Wolf -- Don Lorenzo Perosi -- French
+  and German music -- Claude Debussy: Pelléas et Mélisande -- The awakening: a sketch
+  of the musical movement in Paris since 1870 -- The present condition of French music.'
+title: Musicians of To-Day
+url: http://www.gutenberg.org/ebooks/16467
